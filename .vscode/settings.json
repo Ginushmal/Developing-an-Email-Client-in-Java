@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "javax.mail.jar",
+        "e:\\Mora\\Program Construction\\prac\\javax.mail.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
